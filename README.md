@@ -1,6 +1,6 @@
 # Hey, I'm Jatin.
 
-I work on security problems in high-frequency trading. I also end up contributing to open-source projects when something behaves strangely.
+I work on security problems. I also end up contributing to open-source projects when something behaves strangely.
 
 ## Selected security work
 
