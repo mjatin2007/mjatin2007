@@ -1,10 +1,6 @@
 # Hey, I'm Jatin.
 
-Security engineer in Chicago, working in high-frequency trading.
-
-I like the awkward edges of real systems: authentication boundaries, parser behavior, and state that doesn't get cleaned up.
-
-My rule is simple: find the weird edge case, prove it, fix it, and leave a regression test.
+I work on security problems in high-frequency trading. I also end up contributing to open-source projects when something behaves strangely.
 
 ## Selected security work
 
